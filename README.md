@@ -39,5 +39,5 @@ Python: 8
 * The script is designed to process plain, alphabetic text. Non-alphabetic characters and numbers will be filtered out.
 
 ## License
-This project is governed by the GNU Affero General Public License v3.0. For comprehensive details, kindly refer to the LICENSE file included with this project.
+This project is governed by the CC BY-NC 4.0 license. For comprehensive details, kindly refer to the LICENSE file included with this project.
 
